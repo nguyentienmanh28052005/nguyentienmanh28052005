@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm [Nguyen Tien Manh] 👋
+# Hi, I'm Nguyen Tien Manh 👋
 
 <!-- Giới thiệu ngắn gọn về bản thân bạn -->
-Tôi là một [Game Programer] đam mê [phát triển game]. Tôi thích biến ý tưởng thành hiện thực thông qua code và luôn tìm kiếm những thử thách mới để học hỏi và phát triển.
+Tôi là một Game Programer đam mê phát triển game. Tôi thích biến ý tưởng thành hiện thực thông qua code và luôn tìm kiếm những thử thách mới để học hỏi và phát triển.
 
 ---
 
