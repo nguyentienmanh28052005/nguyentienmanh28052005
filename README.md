@@ -63,7 +63,17 @@ Tôi là một [Game Programer] đam mê [phát triển game]. Tôi thích biế
 <!-- Bạn có thể thêm các widget thống kê GitHub để làm profile sinh động hơn. -->
 <!-- Để lấy các thẻ này, bạn có thể sử dụng GitHub Readme Stats: https://github.com/anuraghazra/github-readme-stats -->
 <!-- Ví dụ: -->
-
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 ---
 
