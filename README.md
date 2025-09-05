@@ -17,18 +17,18 @@ Here are some ideas to get you started:
 # Hi, I'm [Nguyen Tien Manh] 👋
 
 <!-- Giới thiệu ngắn gọn về bản thân bạn -->
-Tôi là một [Chức danh/Vai trò của bạn, ví dụ: Software Engineer, Front-end Developer, Data Scientist] đam mê [Lĩnh vực bạn yêu thích, ví dụ: xây dựng ứng dụng web hiện đại, phân tích dữ liệu lớn, phát triển game]. Tôi thích biến ý tưởng thành hiện thực thông qua code và luôn tìm kiếm những thử thách mới để học hỏi và phát triển.
+Tôi là một [Game Programer] đam mê [phát triển game]. Tôi thích biến ý tưởng thành hiện thực thông qua code và luôn tìm kiếm những thử thách mới để học hỏi và phát triển.
 
 ---
 
 ### 🔭 Tôi hiện đang làm việc trên
-- [Tên dự án 1] - [Mô tả ngắn gọn dự án]
-- [Tên dự án 2] - [Mô tả ngắn gọn dự án]
+- [ALONE] - [Một tựa game 3D survival dành cho mobile]
+- [FOREST] - [Là tựa 2D lấy cảm hứng từ , đây cũng là tựa game đầu tiên mà tôi làm]
 <!-- Thêm nhiều dòng nếu cần -->
 
 ### 🌱 Tôi hiện đang học hỏi
-- [Tên công nghệ/kỹ năng 1, ví dụ: SvelteKit, GoLang, Machine Learning]
-- [Tên công nghệ/kỹ năng 2]
+- [C#]
+- [Unity]
 <!-- Thêm nhiều dòng nếu cần -->
 
 ### 👯 Tôi tìm kiếm cơ hội cộng tác
