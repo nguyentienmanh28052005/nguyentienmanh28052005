@@ -51,10 +51,10 @@ Tôi là một [Game Programer] đam mê [phát triển game]. Tôi thích biế
 - [C#]
 - [C++]
 - [Java]
-**Frameworks & Libraries:**
 
+- 
 **Công cụ & Nền tảng:**
--[Unity]
+- [Unity]
 
 ---
 
