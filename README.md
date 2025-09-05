@@ -48,9 +48,9 @@ Tôi là một [Game Programer] đam mê [phát triển game]. Tôi thích biế
 <!-- Bạn có thể sử dụng các huy hiệu (badges) để hiển thị công nghệ của mình. Truy cập shields.io để tìm kiếm các huy hiệu. -->
 <!-- Ví dụ: -->
 **Ngôn ngữ lập trình:**
--[C#]
--[C++]
--[Java]
+- [C#]
+- [C++]
+- [Java]
 **Frameworks & Libraries:**
 
 **Công cụ & Nền tảng:**
