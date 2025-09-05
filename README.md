@@ -38,6 +38,8 @@ Tôi là một Game Programer đam mê phát triển game. Tôi thích biến ý
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
 ### 🔭 Nhưng dự án tôi đang phát triển
 - [ALONE] - [Một tựa game 3D survival dành cho mobile]
 - [FOREST] - [Là tựa 2D lấy cảm hứng từ , đây cũng là tựa game đầu tiên mà tôi làm]
