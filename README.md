@@ -21,7 +21,7 @@ Tôi là một [Game Programer] đam mê [phát triển game]. Tôi thích biế
 
 ---
 
-### 🔭 Tôi hiện đang làm việc trên
+### 🔭 Nhưng dự án tôi đang phát triển
 - [ALONE] - [Một tựa game 3D survival dành cho mobile]
 - [FOREST] - [Là tựa 2D lấy cảm hứng từ , đây cũng là tựa game đầu tiên mà tôi làm]
 <!-- Thêm nhiều dòng nếu cần -->
