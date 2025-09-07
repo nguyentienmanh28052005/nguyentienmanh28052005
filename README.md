@@ -14,68 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Nguyen Tien Manh 👋
+<h1 align="center">Hi 👋, I'm Nguyễn Tiến Mạnh</h1>
+<h3 align="center">A passionate game developer from Việt Nam</h3>
 
-<!-- Giới thiệu ngắn gọn về bản thân bạn -->
-Tôi là một Game Programer đam mê phát triển game. Tôi thích biến ý tưởng thành hiện thực thông qua code và luôn tìm kiếm những thử thách mới để học hỏi và phát triển.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyentienmanh28052005&label=Profile%20views&color=0e75b6&style=flat" alt="nguyentienmanh28052005" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nguyentienmanh28052005" alt="nguyentienmanh28052005" /></a> </p>
 
-## 🔥 Thống kê GitHub của tôi
+- 🔭 I’m currently working on [ALONE](https://github.com/nguyentienmanh28052005/TM04-AttackOnZombie/tree/main)
 
-<!-- Bạn có thể thêm các widget thống kê GitHub để làm profile sinh động hơn. -->
-<!-- Để lấy các thẻ này, bạn có thể sử dụng GitHub Readme Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Ví dụ: -->
+- 🌱 I’m currently learning **Unity**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/https://www.facebook.com/manhnguyentien2805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/manhnguyentien2805" height="30" width="40" /></a>
+</p>
 
-### 🔭 Nhưng dự án tôi đang phát triển
-- [ALONE] - [Một tựa game 3D survival dành cho mobile]
-- [FOREST] - [Là tựa 2D lấy cảm hứng từ , đây cũng là tựa game đầu tiên mà tôi làm]
-<!-- Thêm nhiều dòng nếu cần -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-### 🌱 Tôi hiện đang học hỏi
-- [C#]
-- [Unity]
-<!-- Thêm nhiều dòng nếu cần -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyentienmanh28052005&show_icons=true&locale=en&layout=compact" alt="nguyentienmanh28052005" /></p>
 
-### 👯 Tôi tìm kiếm cơ hội cộng tác
-- Trên các dự án [Loại dự án bạn muốn cộng tác, ví dụ: mã nguồn mở, dự án khởi nghiệp, phát triển ứng dụng di động].
-- Luôn sẵn sàng trao đổi ý tưởng và học hỏi từ những người khác!
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyentienmanh28052005&show_icons=true&locale=en" alt="nguyentienmanh28052005" /></p>
 
-### 📫 Cách liên hệ với tôi:
-- **Email:** [tienmanh2805@gmail.com]
-- **LinkedIn:** [Link đến profile LinkedIn của bạn]
-- **Website/Portfolio:** [Link đến website cá nhân hoặc portfolio của bạn]
-<!-- Thêm các liên kết khác nếu có, ví dụ: Twitter, Dev.to -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyentienmanh28052005&" alt="nguyentienmanh28052005" /></p>
 
----
-
-## 🛠️ Ngăn xếp công nghệ của tôi
-
-<!-- Bạn có thể sử dụng các huy hiệu (badges) để hiển thị công nghệ của mình. Truy cập shields.io để tìm kiếm các huy hiệu. -->
-<!-- Ví dụ: -->
-**Ngôn ngữ lập trình:**
-- [C#]
-- [C++]
-- [Java]
-
-- 
-**Công cụ & Nền tảng:**
-- [Unity]
-
----
-
-
-
----
-
-## 🚀 Các dự án nổi bật mà tôi đã ghim
-
-<!-- Đây là nơi bạn có thể mô tả chi tiết hơn về các dự án đã ghim của mình (nếu bạn muốn), hoặc đơn giản là để trống phần này vì GitHub đã hiển thị các dự án ghim ở dưới. -->
-<!-- Ví dụ: -->
-- **[Tên dự án 1]**: [Mô tả ngắn gọn về dự án này, ví dụ: Một ứng dụng web E-commerce được xây dựng với React và Node.js.]
-- **[Tên dự án 2]**: [Mô tả ngắn gọn về dự án này, ví dụ: Thư viện Python để phân tích dữ liệu và trực quan hóa.]
-
----
-
-**Cảm ơn bạn đã ghé thăm profile của tôi!** 😊
